@@ -1,2 +1,10 @@
 # Site
-Site Oficial
+Site Oficial Ministério Internacional Betel
+
+Desenvolvido pela Equipe:
+ - 
+ - 
+ - 
+ - 
+ -
+ 
