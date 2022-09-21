@@ -11,6 +11,9 @@ router.get("/contato", (req,res)=>{
     res.sendFile(path.join(__dirname + "/pages/contato.html"))
 })
 
+router.get("/teste", (req,res)=>{
+    res.sendFile(path.join(__dirname + "/pages/teste.js"))
+})
 
 app.use(router)
 

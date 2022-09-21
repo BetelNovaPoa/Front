@@ -1,5 +1,5 @@
 {
-  "name": "Primeira_aplicacao_Betel",
+  "name": "primeira_aplicacao_betel",
   "version": "1.0.0",
   "description": "Site Oficial Ministério Internacional Betel",
   "main": "index.js",
@@ -19,6 +19,12 @@
   },
   "homepage": "https://github.com/BetelNovaPoa/Site#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.23.0",
+    "typescript": "^4.8.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.1"
   }
 }
